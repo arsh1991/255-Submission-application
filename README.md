@@ -3,17 +3,17 @@ A React-Flask web application with machine learning backend. The application pre
 
 ![Start Screen](https://github.com/arsh1991/255-Submission-application/blob/master/images/1.jpeg)
 
-<br/>
+<br>
 ![Start Screen](https://github.com/arsh1991/255-Submission-application/blob/master/images/2.jpeg)
 
 
-<br/>
+<br>
 ![Start Screen](https://github.com/arsh1991/255-Submission-application/blob/master/images/3.jpeg)
 
 
-<br/>
+<br>
 ![Start Screen](https://github.com/arsh1991/255-Submission-application/blob/master/images/4.jpeg)
 
 
-<br/>
+<br>
 ![Start Screen](https://github.com/arsh1991/255-Submission-application/blob/master/images/5.jpeg)
